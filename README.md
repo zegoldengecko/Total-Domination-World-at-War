@@ -1,6 +1,7 @@
 TOTAL DOMINATION: WORLD AT WAR
 
 OVERVIEW
+
 This is a turn-based grand-strategy game built in Python using the Pygame library.
 This was the first large scale project I created - a high-school project that became a complex World War II-style simulator where you control a nation, manage its economy and engage in diplomacy, warfare and long-term strategic planning.
 Whilst this project is old, it represents a major milestone in my early development journey.
